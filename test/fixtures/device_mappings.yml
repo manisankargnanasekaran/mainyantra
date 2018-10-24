@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  installing_date: 2018-06-12
+  removing_date: 2018-06-12
+  number_of_machine: 1
+  reasons: 
+  tenant: one
+  device: one
+  created_by: MyString
+  updated_by: MyString
+  is_active: false
+  deleted_at: 2018-06-12 16:17:32
+
+two:
+  installing_date: 2018-06-12
+  removing_date: 2018-06-12
+  number_of_machine: 1
+  reasons: 
+  tenant: two
+  device: two
+  created_by: MyString
+  updated_by: MyString
+  is_active: false
+  deleted_at: 2018-06-12 16:17:32

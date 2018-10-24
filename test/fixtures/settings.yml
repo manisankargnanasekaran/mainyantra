@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date_wise: false
+  month_wise: false
+  shift_wise: false
+  operator_wise: false
+  email_notification: false
+  hour_wise: false
+  program_wise: false
+  sms: false
+  notification: false
+  description: MyText
+  tenant: one
+  created_by: MyString
+  updated_by: MyString
+  is_active: false
+  deleted_at: 2018-06-12 16:48:45
+
+two:
+  date_wise: false
+  month_wise: false
+  shift_wise: false
+  operator_wise: false
+  email_notification: false
+  hour_wise: false
+  program_wise: false
+  sms: false
+  notification: false
+  description: MyText
+  tenant: two
+  created_by: MyString
+  updated_by: MyString
+  is_active: false
+  deleted_at: 2018-06-12 16:48:45

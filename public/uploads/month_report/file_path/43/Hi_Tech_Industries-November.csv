@@ -1,0 +1,61 @@
+Date,Shift,Time,Operator MFR,Operator ID,Machine Name,Machine ID,Program Number,Job Description,Parts Produced(No's),Cycle Time(M:S),Loading and Unloading Time(Hrs),Idle Time (Hrs),Total Downtime(Hrs),Actual Running(Hrs),Actual Working Hours,Utilization
+2017-11-01,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-01,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-02,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-02,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-03,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-03,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-04,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-04,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-05,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-05,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-06,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-06,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-07,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-07,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-08,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-08,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-09,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-09,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-10,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-10,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-11,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-11,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-12,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-12,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-13,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-13,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-14,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-14,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-15,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-15,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-16,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-16,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-17,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-17,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-18,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-18,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-19,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-19,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-20,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-20,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-21,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-21,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-22,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-22,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-23,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-23,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-24,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-24,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-25,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-25,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-26,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-26,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-27,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-27,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-28,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-28,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-29,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-29,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
+2017-11-30,1,06:00 AM - 02:00 PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,08:00:00,0
+2017-11-30,2,02:00PM - 11:00PM,Not Assigned,Not Assigned,HTI/TC-002,ACE Micromatic,"",-,,0,00:00:00,00:00:00,00:00:00,00:00:00,09:00:00,0
